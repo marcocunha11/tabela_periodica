@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br>"  
+
+<head>
+    <meta charset="UTF-8">
+    <title>*Elemento*</title>
+    <link href="style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+        <h1 class="titulo1">*Elemento*</h1>
+        <br>
+        
+        <label class="paragrafo"><p style="text-align:justify">
+        <br>
+        <h3 class="caracter">Caracteristicas</h3>
+	<p>É radioativo;</p>
+	<p>É um elemento artificial.</p>
+        
+             
+            </p></label>
+
+            <br> <br>
+            <br> <br>
+
+        <a href="index.html"><button class="button"><strong>Voltar</strong></button></a>
+
+
+
+</body>
+</html>

@@ -1,0 +1,102 @@
+table { text-align: center;
+width: 5px;
+height: 15px;}
+
+tr {width: 5px;
+height: 5px;}
+
+td:hover { background-color: none; 
+border-radius: 3px;
+width: 5px;
+height: 5px;}
+
+ul { list-style: none;
+margin: 0;
+padding: 0;
+height: 5xp;
+width: 70px;}
+
+a {text-decoration: none;
+color: black;}
+
+
+body {background-image: url(fsgbs.jpg);}
+
+.titulo { font-size: 2em;
+color: white;
+text-align: center;
+top: 50%;}
+
+.numero {text-align: left;
+font-size: 0.9em;
+font-weight: bold;}
+
+.nome {text-align: center;
+font-size: 0.85em ;}
+
+.massa {text-align: center;
+font-size: 0.8em;}
+
+.simbolo { 
+    font-size: 1.2em;
+	font-weight: bold;}
+
+.a{color: white;
+    font-size: 0.85em;}
+
+.h { background-color: #bcbdbc;
+    text-decoration: none;
+    color: black;}
+
+.metais { background-color: #2FDFC5;
+    text-decoration: none;
+    color: black;}
+
+.semimetais { background-color: #F88323;
+    text-decoration: none;
+    color: black;}
+
+.naometais {background-color: #FFEA2C;
+text-decoration: none;
+color: black;}
+
+.gasesnobres { background-color: #8AED1B;
+    text-decoration: none;
+    color: black;}
+
+.serie { font-size: 1em;
+color: white;}
+
+.titulo1{ font-size: 1.5em;
+    color: red;}
+
+.explicacao{color: white;}
+
+.paragrafo{color: white;}
+
+.caracter {color: red;}
+
+.button {height: 40px;
+width: 90px;}
+
+.hidrogenio1 {background-color:#bcbdbc ;}
+
+.metais1{background-color: #2FDFC5;}
+
+.semi1{background-color: #F88323;}
+
+.ametais1{background-color:#FFEA2C ;}
+
+.gas1{background-color: #8AED1B;}
+
+
+
+
+
+
+
+
+
+
+
+
